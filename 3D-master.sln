@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-master", "3D-master.csproj", "{508E39D2-C90D-057A-25C6-DAEADF46917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-master.Editor", "3D-master.Editor.csproj", "{764A99FA-DB75-7BD5-583D-9B4B82B454C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508E39D2-C90D-057A-25C6-DAEADF46917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508E39D2-C90D-057A-25C6-DAEADF46917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508E39D2-C90D-057A-25C6-DAEADF46917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508E39D2-C90D-057A-25C6-DAEADF46917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764A99FA-DB75-7BD5-583D-9B4B82B454C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764A99FA-DB75-7BD5-583D-9B4B82B454C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764A99FA-DB75-7BD5-583D-9B4B82B454C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764A99FA-DB75-7BD5-583D-9B4B82B454C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
